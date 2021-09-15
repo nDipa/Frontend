@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  url: 'http://localhost:3000/api/phonebook',
+  url: 'https://61420270987c294d7bf6344d--determined-hamilton-9780cf.netlify.app/',
 };
